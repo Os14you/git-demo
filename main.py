@@ -2,16 +2,16 @@ def main():
     pass
 
 def add(n1, n2):
-    pass
+    return n1 + n2
 
 def sub(n1, n2):
-    pass
+    return n1 - n2
 
 def mul(n1, n2):
-    pass
+    return n1 * n2
 
 def div(n1, n2):
-    pass
+    return n1 / n2
 
 if __name__ == "__main__":
     print(add(1, 5))
